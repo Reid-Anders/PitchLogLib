@@ -1,1 +1,1 @@
-"# PitchLogLib" 
+Library repository for Pitch Logging application
