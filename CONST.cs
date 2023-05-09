@@ -26,6 +26,7 @@ namespace PitchLogLib
 
     public enum GradeType
     {
+        All = 0,
         YDS = 1,
         French = 2,
         BritishTrad = 3,
