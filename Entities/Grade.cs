@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace PitchLogLib.Entities
 {
-    public class Grade
+    public class Grade : EntityBase
     {
-        public int ID { get; set; }
-
         public string Value { get; set; }
 
         public GradeType Type { get; set; }
