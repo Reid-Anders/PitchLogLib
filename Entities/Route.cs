@@ -8,6 +8,6 @@ namespace PitchLogLib.Entities
 {
     public class Route : Climb
     {
-        public Length? Length { get; set; }
+
     }
 }

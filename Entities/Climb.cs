@@ -12,6 +12,10 @@ namespace PitchLogLib.Entities
 
         public Grade Grade { get; set; }
 
+        public int GradeID { get; set; }
+
         public Sector Sector { get; set; }
+
+        public int SectorID { get; set; }
     }
 }
